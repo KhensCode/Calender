@@ -1,6 +1,6 @@
 # Calender
 Calendar App with Dynamic Background Color
-This Calendar app displays the current date, including the month, day, date, and year, along with a dynamically changing background color every 5 seconds. The app uses HTML, CSS, and JavaScript to create a user-friendly and visually appealing interface.
+This Calendar app displays the current date, including the month, day, date, and year, along with a dynamically changing background color every 5 seconds. The calender  uses HTML, CSS, and JavaScript to create a user-friendly and visually appealing interface.
 
 Features
 Displays the current month, day, date, and year
